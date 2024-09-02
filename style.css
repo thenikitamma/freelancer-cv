@@ -1,0 +1,50 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.container{
+max-width: 1440px;
+margin:0 auto;
+padding:0 auto;
+
+}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction;
+}
+.menu{
+    display:flex;
+
+}
+.menu-item{
+    padding right: 30px;
+}
+.menu-link{
+    padding-right: 30px;
+
+}
+ul{
+    list-style: none;
+}
+
+.new-info{
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+.icons{
+    display:flex;
+    justify-content:space-between;  
+}
+.pricing__prices{
+    display:flex;
+    justify-content:center;  
+}
+.pricing__options{
+    display:flex;
+    justify-content:space-between
+   
+}
